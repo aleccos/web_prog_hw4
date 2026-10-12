@@ -1,0 +1,14 @@
+# api key
+config.js
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# editor folders
+.vscode/
+.idea/
+
+# zipped submissions
+*.zip
