@@ -40,7 +40,3 @@ The app shows a message instead of breaking when:
 - too many requests were made (429)
 - there is no internet connection
 - any other bad response from the API
-
-## Screenshot
-
-![Weather for a city](screenshot.png)
